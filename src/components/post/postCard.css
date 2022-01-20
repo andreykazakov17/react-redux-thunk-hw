@@ -1,0 +1,32 @@
+/* font-family: 'Libre Baskerville', serif; */
+
+.card-h2 {
+	font-family: Libre Baskerville;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 32px;
+	color: #000000;
+	margin: 0px;
+	margin-bottom: 50px;
+}
+
+.card-div {
+	padding: 50px 50px 50px 50px;
+	position: relative;
+	width: 450px;
+	min-height: 250px;
+	background: #FFFFFF;
+	box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.1);
+	border-radius: 25px;
+}
+
+.card-p {
+	width: 426px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 21px;
+	color: #000000;
+}
